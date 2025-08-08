@@ -12,9 +12,9 @@ The application includes a **secure user authentication system** with a database
 
 ## 🛠 Technologies Used
 - **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Node.js / PHP (depending on implementation)
-- **Database:** MySQL / MongoDB / SQLite
-- **API:** Free Stock Market News API (e.g., Finnhub, NewsAPI, or similar)
+- **Backend:** Node.js / Express
+- **Database:** MongoDB 
+- **API:** Free Stock Market News API (Finnhub, NewsAPI)
 
 
 ## 📌 How It Works
